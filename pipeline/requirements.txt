@@ -1,0 +1,14 @@
+pytest
+pylint
+boto3
+openpyxl
+pandas
+redshift_connector
+python-dotenv
+pymysql
+cryptography
+ipykernel
+altair
+pyarrow
+awswrangler
+streamlit
