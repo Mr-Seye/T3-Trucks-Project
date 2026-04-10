@@ -1,7 +1,5 @@
 """Generates a dictionary containing the HTML daily report."""
 
-from __future__ import annotations
-
 import html
 import os
 from dataclasses import dataclass
