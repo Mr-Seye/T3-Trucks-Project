@@ -21,7 +21,7 @@ The platform follows a structured data pipeline:
 ## Project Structure
 
 The repository is organised into several components, each responsible for a specific part of the pipeline:
-
+```
 project-root/
 ├── dashboard/
 │   ├── dashboard_core/
@@ -47,7 +47,7 @@ project-root/
     ├── main.py
     ├── requirements.txt
     └── transform.py
-
+```
 ---
 
 ## Setup Instructions
