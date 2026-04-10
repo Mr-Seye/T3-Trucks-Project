@@ -132,7 +132,3 @@ terraform apply
 ```
 
 ---
-
-## Summary
-
-This project demonstrates the design and implementation of a modern data pipeline, integrating cloud storage, query engines, and visualisation tools to transform raw transactional data into actionable insights.
