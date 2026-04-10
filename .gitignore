@@ -98,8 +98,7 @@ terraform.tfvars
 .env
 *.env
 
-terraform/
-terraform/*
+
 
 .venv
 
@@ -110,3 +109,6 @@ input/*
 metadata/*
 reports/*
 old_terra/*
+terraform.tfstate
+terraform.tfstate.backup
+
