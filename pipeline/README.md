@@ -69,9 +69,3 @@ This entry point coordinates all stages of the ETL process in sequence.
   Defines a containerised environment for consistent deployment and execution of the pipeline
 
 ---
-
-## Summary
-
-This pipeline demonstrates a structured approach to data engineering, combining incremental data extraction, transformation, and partitioned storage to enable efficient querying and scalable analytics in a cloud-based environment.
-
----
