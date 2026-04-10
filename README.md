@@ -74,7 +74,7 @@ pip install -r pipeline/requirements.txt
 
 ### Environment Configuration
 
-Create a `.env` file containing the database connection details:
+Create a `.env` file containing the database and AWS connection details:
 
 ```env
 DB_HOST=rds-host
