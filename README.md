@@ -82,6 +82,20 @@ DB_USER=username
 DB_PASSWORD=password
 DB_NAME=database-name
 DB_PORT=3306
+
+AWS_ACCESS_KEY=your-access-key
+AWS_SECRET_KEY=your-secret-key
+S3_BUCKET=your-s3-bucket-name
+AWS_REGION=your-aws-region
+
+ATHENA_DATABASE=athena-db-name
+ATHENA_S3_OUTPUT=s3://your-s3-bucket-name/output/
+ATHENA_TX_TABLE=transaction
+ATHENA_TRUCK_TABLE=truck
+ATHENA_PM_TABLE=payment_method
+ATHENA_WORKGROUP=primary
+
+
 ```
 
 ---
